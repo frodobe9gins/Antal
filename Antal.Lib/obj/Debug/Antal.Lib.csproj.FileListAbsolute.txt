@@ -1,0 +1,6 @@
+C:\Users\Den\Documents\GitHub\Antal\Antal.Lib\bin\Debug\Antal.Lib.dll
+C:\Users\Den\Documents\GitHub\Antal\Antal.Lib\bin\Debug\Antal.Lib.pdb
+C:\Users\Den\Documents\GitHub\Antal\Antal.Lib\obj\Debug\Antal.Lib.csprojAssemblyReference.cache
+C:\Users\Den\Documents\GitHub\Antal\Antal.Lib\obj\Debug\Antal.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Den\Documents\GitHub\Antal\Antal.Lib\obj\Debug\Antal.Lib.dll
+C:\Users\Den\Documents\GitHub\Antal\Antal.Lib\obj\Debug\Antal.Lib.pdb

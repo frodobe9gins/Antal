@@ -1,0 +1,16 @@
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Antal.Lib.dll
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Antal.Lib.pdb
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Den\Documents\GitHub\Antal\UnitTest\obj\Debug\UnitTest.pdb

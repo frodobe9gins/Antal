@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antal.Lib", "Antal.Lib\Antal.Lib.csproj", "{07A4AEE8-1BF6-4169-88F9-BE046EF18CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{4B268C99-4B82-4195-8317-085939C1186B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A4AEE8-1BF6-4169-88F9-BE046EF18CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A4AEE8-1BF6-4169-88F9-BE046EF18CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A4AEE8-1BF6-4169-88F9-BE046EF18CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A4AEE8-1BF6-4169-88F9-BE046EF18CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B268C99-4B82-4195-8317-085939C1186B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B268C99-4B82-4195-8317-085939C1186B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B268C99-4B82-4195-8317-085939C1186B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B268C99-4B82-4195-8317-085939C1186B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA32654-BE54-41AF-A0DB-424BE3DC29A8}
+	EndGlobalSection
+EndGlobal
