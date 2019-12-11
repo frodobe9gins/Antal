@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Figure\BaseFigure.cs" />
+    <Compile Include="Figure\FigureFactory.cs" />
+    <Compile Include="Figure\FigureMathFactory.cs" />
+    <Compile Include="Figure\Types\Circle.cs" />
+    <Compile Include="Figure\Types\Triangle.cs" />
     <Compile Include="First\Figure.cs" />
     <Compile Include="Second\CircleFactory.cs" />
     <Compile Include="Second\TriangleFactory.cs" />
